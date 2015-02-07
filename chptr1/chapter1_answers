@@ -1,0 +1,11 @@
+CHAPTER 1
+
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+$ git config --global core.editor geditor
+$ git config --list
+
+user.email=jblhernandez@addu.edu.ph
+user.name=jblhernandez
+core.editor=geditor
+
